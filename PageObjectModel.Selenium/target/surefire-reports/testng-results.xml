@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="29726" started-at="2019-02-22T05:23:26Z" finished-at="2019-02-22T05:23:56Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="29726" started-at="2019-02-22T05:23:26Z" finished-at="2019-02-22T05:23:56Z">
+      <class name="loginpageTesting.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:loginpageTesting.LoginPageTest@10f6bfd]" name="setup" is-config="true" duration-ms="24419" started-at="2019-02-22T05:23:26Z" finished-at="2019-02-22T05:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="log()[pri:2, instance:loginpageTesting.LoginPageTest@10f6bfd]" name="log" duration-ms="5300" started-at="2019-02-22T05:23:50Z" finished-at="2019-02-22T05:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method status="PASS" signature="validate()[pri:1, instance:loginpageTesting.LoginPageTest@10f6bfd]" name="validate" duration-ms="0" started-at="2019-02-22T05:23:50Z" finished-at="2019-02-22T05:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+      </class> <!-- loginpageTesting.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
